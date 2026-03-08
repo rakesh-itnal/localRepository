@@ -1,1 +1,1 @@
-# thhis is my new local repository
+# This is my new local repository
